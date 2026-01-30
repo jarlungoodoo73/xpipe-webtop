@@ -208,8 +208,10 @@ Copilot coding agent has certain limitations in its software development workflo
 
 ## Further Reading
 
+For more information about GitHub Copilot coding agent, refer to the official GitHub documentation:
+
 - GitHub Copilot coding agent how-to articles
-- About custom agents
-- Responsible use of GitHub Copilot coding agent on GitHub.com
+- Custom agents documentation
+- Responsible use guidelines for GitHub Copilot coding agent
 - [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/)
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
