@@ -97,7 +97,7 @@ The more Copilot coding agent knows about the code in your repository, the tools
 
 ### Custom Instructions
 
-These are short, natural‑language statements that you write and store as one or more files in a repository. If you are the owner of an organization on GitHub you can also define custom instructions in the settings for your organization.
+These are short, natural-language statements that you write and store as one or more files in a repository. If you are the owner of an organization on GitHub you can also define custom instructions in the settings for your organization.
 
 ### Copilot Memory (Public Preview)
 
@@ -130,7 +130,7 @@ Security is a fundamental consideration when you enable Copilot coding agent, as
 - CodeQL is used to identify code security issues
 - Newly introduced dependencies are checked against the GitHub Advisory Database for malware advisories, and for any CVSS-rated High or Critical vulnerabilities
 - Secret scanning is used to detect sensitive information such as API keys, tokens, and other secrets
-- Copilot coding agent's security validation does not require a GitHub Secret Protection, GitHub Code Security, or GitHub Advanced Security license
+- Copilot coding agent's security validation does not require a GitHub Advanced Security license
 
 **Subject to Existing Governance:**
 - Organization settings and enterprise policies control availability
